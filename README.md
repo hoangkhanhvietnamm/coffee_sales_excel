@@ -2,7 +2,7 @@
 
 An interactive and professional Excel dashboard for analyzing global coffee sales, designed using slicers, timelines, and Excel formulas.
 
-![Coffee Sales Dashboard](coffee_sales_dashboard.png)
+![Coffee Sales Dashboard](coffee_sales_dashboard.PNG)
 
 ---
 
